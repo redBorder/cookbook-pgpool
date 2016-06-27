@@ -1,4 +1,4 @@
-cookbook iptables CHANGELOG
+cookbook pgpool CHANGELOG
 ==========================
 
 0.0.1

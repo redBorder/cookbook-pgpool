@@ -1,4 +1,4 @@
-# Cookbook Name:: iptables
+# Cookbook Name:: pgpool
 #
 # Resource:: config
 #
